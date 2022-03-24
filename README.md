@@ -53,8 +53,12 @@ How to get started
 get clone https://github.com/Hfranz1/Text-Editor.git
 ```
 - Install:
+<p>
 run ``` npm install ``` in terminal
+</p>
+<p>
 run ``` npm run start```
+</p>
 
 ## Link
 <p>
